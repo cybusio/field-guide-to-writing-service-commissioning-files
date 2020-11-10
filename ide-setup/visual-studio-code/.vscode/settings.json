@@ -1,0 +1,7 @@
+{
+  "yaml.customTags": [
+      "!sub",
+      "!ref",
+      "!merge"
+  ]
+}
